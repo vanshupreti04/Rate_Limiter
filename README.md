@@ -5,14 +5,13 @@
   <img src="https://img.shields.io/badge/Spring%20Boot-Reactive-green" />
   <img src="https://img.shields.io/badge/WebFlux-Non--Blocking-brightgreen" />
   <img src="https://img.shields.io/badge/PostgreSQL-Database-blue" />
-  <img src="https://img.shields.io/badge/Status-Production--Ready-success" />
 </p>
 
 ---
 
 ## ✨ Overview
 
-This project is a **high-performance Rate Limiter** built using the **Token Bucket Algorithm** to efficiently manage and distribute incoming traffic.
+This project is a **Rate Limiter** built using the **Token Bucket Algorithm** to efficiently manage and distribute incoming traffic.
 It helps **reduce system load**, **prevent abuse**, and **ensure fair usage** across services by controlling request rates at the gateway level.
 
 > ⚡ Designed for **scalable microservices**, this rate limiter works as a **protective gateway** that validates API keys and enforces rate limits before forwarding traffic to downstream services.
@@ -89,7 +88,6 @@ X-API-KEY: your-api-key-here
 ✅ API Key validation
 ✅ Service-based traffic isolation
 ✅ PostgreSQL-backed persistence
-✅ Scalable & production-ready
 
 ---
 
@@ -122,7 +120,6 @@ X-API-KEY: your-api-key-here
 * API Gateway protection
 * Preventing DDoS & abuse
 * Fair usage enforcement
-* Load shedding under high traffic
 
 ---
 
@@ -153,3 +150,4 @@ cd rate-limiter
 ---
 
 ⭐ If you like this project, don’t forget to **star the repository**!
+
