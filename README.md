@@ -91,6 +91,25 @@ X-API-KEY: your-api-key-here
 
 ---
 
+## 🖼️ Images and Working
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/a1ab434e-66fe-43c2-88c0-ece2256bc5be" width="500"/>
+      <br/>
+      <b>Project Structure</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/a48ff7ce-3ab6-4409-a1d1-9c7b34648f44" width="500"/>
+      <br/>
+      <b>Rate Limiter Working (200 / 429)</b>
+    </td>
+  </tr>
+</table>
+
+
+
 ## 📡 Example Response
 
 ### ✅ Allowed Request
@@ -150,4 +169,5 @@ cd rate-limiter
 ---
 
 ⭐ If you like this project, don’t forget to **star the repository**!
+
 
